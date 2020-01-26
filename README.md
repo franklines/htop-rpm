@@ -1,3 +1,4 @@
+# htop RPM for RedHat/CentOS Linux
 The following RPM will install htop in the `/opt/htop` directory. A symlink is then created to the `/usr/local/bin` directory.
 
 ![htop in action](https://i.imgur.com/p9Ty80z.png)
